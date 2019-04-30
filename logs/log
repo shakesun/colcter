@@ -1,0 +1,128 @@
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\manager.py', reloading
+INFO _internal.py:122  * Restarting with stat
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [30/Apr/2019 13:22:54] "GET /user/123 HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [30/Apr/2019 13:22:59] "GET /user/ HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [30/Apr/2019 13:23:04] "GET /132 HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [30/Apr/2019 13:23:08] "GET /1323 HTTP/1.1" 404 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\manager.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [30/Apr/2019 13:23:22] "GET /user HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [30/Apr/2019 13:23:24] "GET /user/123 HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [30/Apr/2019 13:23:24] "GET /user/123 HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [30/Apr/2019 13:28:59] "GET /user/123 HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [30/Apr/2019 13:29:05] "GET /user/ HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [30/Apr/2019 13:29:09] "GET / HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [30/Apr/2019 13:29:55] "GET / HTTP/1.1" 404 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\manager.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [30/Apr/2019 13:30:00] "GET /user/123 HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [30/Apr/2019 13:30:00] "GET /user/123 HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [30/Apr/2019 13:30:01] "GET /user/123 HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [30/Apr/2019 13:30:01] "GET /user/123 HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [30/Apr/2019 13:30:02] "GET /user/123 HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [30/Apr/2019 13:30:02] "GET /user/123 HTTP/1.1" 404 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\manager.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [30/Apr/2019 13:30:15] "GET /user/123 HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\manager.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\manager.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [30/Apr/2019 13:40:01] "GET /user/123 HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [30/Apr/2019 13:40:03] "GET /user/123 HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [30/Apr/2019 13:40:03] "GET /user/123 HTTP/1.1" 404 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\__init__.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [30/Apr/2019 13:57:58] "GET /indxx HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [30/Apr/2019 13:58:01] "GET /index HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [30/Apr/2019 13:58:02] "GET /index HTTP/1.1" 404 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\__init__.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [30/Apr/2019 13:59:20] "GET /index HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [30/Apr/2019 13:59:21] "GET /index HTTP/1.1" 404 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\__init__.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [30/Apr/2019 14:31:40] "GET /index HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [30/Apr/2019 14:31:41] "GET /index HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [30/Apr/2019 14:31:42] "GET /index HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [30/Apr/2019 14:37:18] "GET /index HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [30/Apr/2019 14:37:21] "GET /index HTTP/1.1" 404 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\__init__.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [30/Apr/2019 14:38:39] "GET /index HTTP/1.1" 404 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\manager.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [30/Apr/2019 16:45:57] "GET / HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\manager.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [30/Apr/2019 16:46:50] "GET /index HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [30/Apr/2019 16:47:29] "GET / HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [30/Apr/2019 16:47:30] "GET / HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [30/Apr/2019 16:47:52] "GET / HTTP/1.1" 404 -
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [30/Apr/2019 16:49:02] "GET / HTTP/1.1" 404 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\manager.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\index\\views\\__init__.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\index\\__init__.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [30/Apr/2019 17:02:29] "GET /index HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\index\\__init__.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)

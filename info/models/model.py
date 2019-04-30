@@ -4,7 +4,7 @@
 """
 数据库模型
 """
-from Aum_water.start import db
+from manager import db
 
 
 class Role(db.Model):
