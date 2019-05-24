@@ -36,6 +36,9 @@ def create_app(config_name):
     from info.modules.user import index_blu
     app.register_blueprint(index_blu)
 
+    from info.modules.self_management import self_manage_blu
+    app.register_blueprint(self_manage_blu)
+
     return app
 
 
