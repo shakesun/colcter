@@ -126,3 +126,972 @@ INFO _internal.py:122  * Restarting with stat
 WARNING _internal.py:122  * Debugger is active!
 INFO _internal.py:122  * Debugger PIN: 745-503-176
 INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\manager.py', reloading
+INFO _internal.py:122  * Restarting with stat
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\manager.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\manager.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\manager.py', reloading
+INFO _internal.py:122  * Restarting with stat
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\config.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR __init__.py:97 Error: Path doesn't exist: 'migrations'.  Please use the 'init' command to create a new scripts folder.
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\index\\views\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\manager.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\index\\views\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR __init__.py:97 Error: Directory migrations already exists
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\models.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\models.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\models.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\models.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\models.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\models.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\models.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\models.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\models.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\__init__.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [23/May/2019 14:29:07] "GET / HTTP/1.1" 500 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO csrf.py:251 The CSRF token is missing.
+INFO _internal.py:122 127.0.0.1 - - [23/May/2019 15:05:27] "POST /users/register?mobile=17601047227&password=123456 HTTP/1.1" 500 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\config.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO csrf.py:251 The CSRF token is missing.
+INFO _internal.py:122 127.0.0.1 - - [23/May/2019 15:06:46] "POST /users/register?mobile=17601047227&password=123456 HTTP/1.1" 500 -
+INFO csrf.py:251 The CSRF token is missing.
+INFO _internal.py:122 127.0.0.1 - - [23/May/2019 15:10:57] "POST /users/register?mobile=17601047227&password=123456 HTTP/1.1" 500 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\config.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO csrf.py:251 The CSRF token is missing.
+INFO _internal.py:122 127.0.0.1 - - [23/May/2019 15:15:33] "POST /users/register?mobile=17601047227&password=123456 HTTP/1.1" 400 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [23/May/2019 15:28:37] "GET /users/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [23/May/2019 15:28:42] "POST /users/login HTTP/1.1" 405 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO csrf.py:251 The CSRF token is missing.
+INFO _internal.py:122 127.0.0.1 - - [23/May/2019 15:29:31] "POST /users/login HTTP/1.1" 400 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO csrf.py:251 The CSRF token is missing.
+INFO _internal.py:122 127.0.0.1 - - [23/May/2019 15:36:06] "POST /users/login HTTP/1.1" 400 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO csrf.py:251 The CSRF token is missing.
+INFO _internal.py:122 127.0.0.1 - - [23/May/2019 15:54:32] "POST /users/login HTTP/1.1" 400 -
+INFO csrf.py:251 The CSRF token is missing.
+INFO _internal.py:122 127.0.0.1 - - [23/May/2019 15:55:03] "POST /users/login HTTP/1.1" 400 -
+INFO csrf.py:251 The CSRF session token is missing.
+INFO _internal.py:122 127.0.0.1 - - [23/May/2019 15:56:13] "POST /users/login HTTP/1.1" 400 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\__init__.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\__init__.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO csrf.py:251 The CSRF session token is missing.
+INFO _internal.py:122 127.0.0.1 - - [23/May/2019 16:44:26] "POST /users/login HTTP/1.1" 400 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\__init__.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO csrf.py:251 The CSRF session token is missing.
+INFO _internal.py:122 127.0.0.1 - - [23/May/2019 16:44:41] "POST /users/login HTTP/1.1" 400 -
+INFO csrf.py:251 The CSRF session token is missing.
+INFO _internal.py:122 127.0.0.1 - - [23/May/2019 16:44:43] "POST /users/login HTTP/1.1" 400 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\__init__.py', reloading
+INFO _internal.py:122  * Restarting with stat
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO csrf.py:251 The CSRF session token is missing.
+INFO _internal.py:122 127.0.0.1 - - [23/May/2019 16:51:31] "POST /users/login HTTP/1.1" 400 -
+INFO csrf.py:251 The CSRF session token is missing.
+INFO _internal.py:122 127.0.0.1 - - [23/May/2019 17:04:08] "POST /users/login HTTP/1.1" 400 -
+INFO _internal.py:122 127.0.0.1 - - [23/May/2019 17:04:15] "POST /users/ HTTP/1.1" 404 -
+INFO csrf.py:251 The CSRF session token is missing.
+INFO _internal.py:122 127.0.0.1 - - [23/May/2019 17:04:25] "POST /users/register HTTP/1.1" 400 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\__init__.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [23/May/2019 18:56:35] "POST /users/register HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [23/May/2019 18:56:58] "POST /users/login HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [23/May/2019 18:59:44] "POST /users/register HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [23/May/2019 19:04:23] "POST /users/register HTTP/1.1" 500 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [23/May/2019 19:04:29] "POST /users/register HTTP/1.1" 500 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [23/May/2019 19:20:29] "POST /users/login HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [23/May/2019 19:22:00] "POST /users/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [23/May/2019 19:22:18] "POST /users/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [23/May/2019 19:23:13] "POST /users/login HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [23/May/2019 19:30:43] "POST /users/login HTTP/1.1" 500 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [23/May/2019 19:31:48] "POST /users/login HTTP/1.1" 500 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [23/May/2019 19:35:55] "POST /users/register HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [23/May/2019 19:36:49] "POST /users/register HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [23/May/2019 19:38:31] "POST /users/register HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [23/May/2019 19:39:11] "POST /users/register HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [23/May/2019 19:39:21] "POST /users/register HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [23/May/2019 19:41:55] "POST /users/register HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [23/May/2019 19:42:15] "POST /users/register HTTP/1.1" 500 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\models.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO log.py:110 SHOW VARIABLES LIKE 'sql_mode'
+INFO log.py:110 {}
+INFO log.py:110 SHOW VARIABLES LIKE 'lower_case_table_names'
+INFO log.py:110 {}
+INFO log.py:110 SELECT DATABASE()
+INFO log.py:110 {}
+INFO log.py:110 show collation where `Charset` = 'utf8mb4' and `Collation` = 'utf8mb4_bin'
+INFO log.py:110 {}
+INFO log.py:110 SELECT CAST('test plain returns' AS CHAR(60)) AS anon_1
+INFO log.py:110 {}
+INFO log.py:110 SELECT CAST('test unicode returns' AS CHAR(60)) AS anon_1
+INFO log.py:110 {}
+INFO log.py:110 SELECT CAST('test collated returns' AS CHAR CHARACTER SET utf8mb4) COLLATE utf8mb4_bin AS anon_1
+INFO log.py:110 {}
+INFO log.py:110 BEGIN (implicit)
+INFO log.py:110 INSERT INTO `Users` (timestamp, update_time, nick_name, password_hash, phone_number, email, last_login) VALUES (%(timestamp)s, %(update_time)s, %(nick_name)s, %(password_hash)s, %(phone_number)s, %(email)s, %(last_login)s)
+INFO log.py:110 {'timestamp': datetime.datetime(2019, 5, 23, 20, 24, 58, 614562), 'update_time': datetime.datetime(2019, 5, 23, 20, 24, 58, 615091), 'nick_name': '17601047227', 'password_hash': None, 'phone_number': None, 'email': None, 'last_login': datetime.datetime(2019, 5, 23, 20, 26, 12, 428436)}
+INFO log.py:110 ROLLBACK
+ERROR views.py:76 (pymysql.err.IntegrityError) (1048, "Column 'password_hash' cannot be null")
+[SQL: INSERT INTO `Users` (timestamp, update_time, nick_name, password_hash, phone_number, email, last_login) VALUES (%(timestamp)s, %(update_time)s, %(nick_name)s, %(password_hash)s, %(phone_number)s, %(email)s, %(last_login)s)]
+[parameters: {'timestamp': datetime.datetime(2019, 5, 23, 20, 24, 58, 614562), 'update_time': datetime.datetime(2019, 5, 23, 20, 24, 58, 615091), 'nick_name': '17601047227', 'password_hash': None, 'phone_number': None, 'email': None, 'last_login': datetime.datetime(2019, 5, 23, 20, 26, 12, 428436)}]
+(Background on this error at: http://sqlalche.me/e/gkpj)
+INFO _internal.py:122 127.0.0.1 - - [23/May/2019 20:26:12] "POST /users/register HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\models.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\models.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\models.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO log.py:110 SHOW VARIABLES LIKE 'sql_mode'
+INFO log.py:110 {}
+INFO log.py:110 SHOW VARIABLES LIKE 'lower_case_table_names'
+INFO log.py:110 {}
+INFO log.py:110 SELECT DATABASE()
+INFO log.py:110 {}
+INFO log.py:110 show collation where `Charset` = 'utf8mb4' and `Collation` = 'utf8mb4_bin'
+INFO log.py:110 {}
+INFO log.py:110 SELECT CAST('test plain returns' AS CHAR(60)) AS anon_1
+INFO log.py:110 {}
+INFO log.py:110 SELECT CAST('test unicode returns' AS CHAR(60)) AS anon_1
+INFO log.py:110 {}
+INFO log.py:110 SELECT CAST('test collated returns' AS CHAR CHARACTER SET utf8mb4) COLLATE utf8mb4_bin AS anon_1
+INFO log.py:110 {}
+INFO log.py:110 BEGIN (implicit)
+INFO log.py:110 INSERT INTO `Users` (timestamp, update_time, nick_name, password_hash, phone_number, email, last_login) VALUES (%(timestamp)s, %(update_time)s, %(nick_name)s, %(password_hash)s, %(phone_number)s, %(email)s, %(last_login)s)
+INFO log.py:110 {'timestamp': datetime.datetime(2019, 5, 23, 21, 4, 13, 125317), 'update_time': datetime.datetime(2019, 5, 23, 21, 4, 13, 125317), 'nick_name': '17601047227', 'password_hash': 'pbkdf2:sha256:150000$2WISo9wb$ae7b045023b05351850a61e973804ffce24098eaca0629e225e47598c430f434', 'phone_number': None, 'email': None, 'last_login': datetime.datetime(2019, 5, 23, 21, 4, 13, 779023)}
+INFO log.py:110 ROLLBACK
+ERROR views.py:76 (pymysql.err.IntegrityError) (1048, "Column 'phone_number' cannot be null")
+[SQL: INSERT INTO `Users` (timestamp, update_time, nick_name, password_hash, phone_number, email, last_login) VALUES (%(timestamp)s, %(update_time)s, %(nick_name)s, %(password_hash)s, %(phone_number)s, %(email)s, %(last_login)s)]
+[parameters: {'timestamp': datetime.datetime(2019, 5, 23, 21, 4, 13, 125317), 'update_time': datetime.datetime(2019, 5, 23, 21, 4, 13, 125317), 'nick_name': '17601047227', 'password_hash': 'pbkdf2:sha256:150000$2WISo9wb$ae7b045023b05351850a61e973804ffce24098eaca0629e225e47598c430f434', 'phone_number': None, 'email': None, 'last_login': datetime.datetime(2019, 5, 23, 21, 4, 13, 779023)}]
+(Background on this error at: http://sqlalche.me/e/gkpj)
+INFO _internal.py:122 127.0.0.1 - - [23/May/2019 21:04:13] "POST /users/register HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\models.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\models.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\models.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\models.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\models.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO log.py:110 SHOW VARIABLES LIKE 'sql_mode'
+INFO log.py:110 {}
+INFO log.py:110 SHOW VARIABLES LIKE 'lower_case_table_names'
+INFO log.py:110 {}
+INFO log.py:110 SELECT DATABASE()
+INFO log.py:110 {}
+INFO log.py:110 show collation where `Charset` = 'utf8mb4' and `Collation` = 'utf8mb4_bin'
+INFO log.py:110 {}
+INFO log.py:110 SELECT CAST('test plain returns' AS CHAR(60)) AS anon_1
+INFO log.py:110 {}
+INFO log.py:110 SELECT CAST('test unicode returns' AS CHAR(60)) AS anon_1
+INFO log.py:110 {}
+INFO log.py:110 SELECT CAST('test collated returns' AS CHAR CHARACTER SET utf8mb4) COLLATE utf8mb4_bin AS anon_1
+INFO log.py:110 {}
+INFO log.py:110 BEGIN (implicit)
+INFO log.py:110 INSERT INTO `Users` (timestamp, update_time, nick_name, password_hash, mobile, email, last_login) VALUES (%(timestamp)s, %(update_time)s, %(nick_name)s, %(password_hash)s, %(mobile)s, %(email)s, %(last_login)s)
+INFO log.py:110 {'timestamp': datetime.datetime(2019, 5, 23, 21, 14, 36, 814115), 'update_time': datetime.datetime(2019, 5, 23, 21, 14, 36, 814115), 'nick_name': '17601047227', 'password_hash': 'pbkdf2:sha256:150000$BKwDuj5t$fa8b9d74aeaae406fdd065c3c8f9bbe584622e8f6a131306d25a1eaccc7e40ec', 'mobile': '17601047227', 'email': None, 'last_login': datetime.datetime(2019, 5, 23, 21, 23, 9, 826428)}
+INFO log.py:110 ROLLBACK
+ERROR views.py:76 (pymysql.err.DataError) (1264, "Out of range value for column 'mobile' at row 1")
+[SQL: INSERT INTO `Users` (timestamp, update_time, nick_name, password_hash, mobile, email, last_login) VALUES (%(timestamp)s, %(update_time)s, %(nick_name)s, %(password_hash)s, %(mobile)s, %(email)s, %(last_login)s)]
+[parameters: {'timestamp': datetime.datetime(2019, 5, 23, 21, 14, 36, 814115), 'update_time': datetime.datetime(2019, 5, 23, 21, 14, 36, 814115), 'nick_name': '17601047227', 'password_hash': 'pbkdf2:sha256:150000$BKwDuj5t$fa8b9d74aeaae406fdd065c3c8f9bbe584622e8f6a131306d25a1eaccc7e40ec', 'mobile': '17601047227', 'email': None, 'last_login': datetime.datetime(2019, 5, 23, 21, 23, 9, 826428)}]
+(Background on this error at: http://sqlalche.me/e/9h9h)
+INFO _internal.py:122 127.0.0.1 - - [23/May/2019 21:23:09] "POST /users/register HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\models.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO log.py:110 SHOW VARIABLES LIKE 'sql_mode'
+INFO log.py:110 {}
+INFO log.py:110 SHOW VARIABLES LIKE 'lower_case_table_names'
+INFO log.py:110 {}
+INFO log.py:110 SELECT DATABASE()
+INFO log.py:110 {}
+INFO log.py:110 show collation where `Charset` = 'utf8mb4' and `Collation` = 'utf8mb4_bin'
+INFO log.py:110 {}
+INFO log.py:110 SELECT CAST('test plain returns' AS CHAR(60)) AS anon_1
+INFO log.py:110 {}
+INFO log.py:110 SELECT CAST('test unicode returns' AS CHAR(60)) AS anon_1
+INFO log.py:110 {}
+INFO log.py:110 SELECT CAST('test collated returns' AS CHAR CHARACTER SET utf8mb4) COLLATE utf8mb4_bin AS anon_1
+INFO log.py:110 {}
+INFO log.py:110 BEGIN (implicit)
+INFO log.py:110 INSERT INTO `Users` (timestamp, update_time, nick_name, password_hash, mobile, email, last_login) VALUES (%(timestamp)s, %(update_time)s, %(nick_name)s, %(password_hash)s, %(mobile)s, %(email)s, %(last_login)s)
+INFO log.py:110 {'timestamp': datetime.datetime(2019, 5, 23, 21, 37, 18, 151589), 'update_time': datetime.datetime(2019, 5, 23, 21, 37, 18, 151589), 'nick_name': '17601047227', 'password_hash': 'pbkdf2:sha256:150000$kd06shTL$b3f6c9bb192a65ac3a33183c77a61f569ffd77450a057322f7651a9010c1f117', 'mobile': '17601047227', 'email': None, 'last_login': datetime.datetime(2019, 5, 23, 21, 58, 41, 579142)}
+INFO log.py:110 ROLLBACK
+ERROR views.py:76 (pymysql.err.DataError) (1264, "Out of range value for column 'mobile' at row 1")
+[SQL: INSERT INTO `Users` (timestamp, update_time, nick_name, password_hash, mobile, email, last_login) VALUES (%(timestamp)s, %(update_time)s, %(nick_name)s, %(password_hash)s, %(mobile)s, %(email)s, %(last_login)s)]
+[parameters: {'timestamp': datetime.datetime(2019, 5, 23, 21, 37, 18, 151589), 'update_time': datetime.datetime(2019, 5, 23, 21, 37, 18, 151589), 'nick_name': '17601047227', 'password_hash': 'pbkdf2:sha256:150000$kd06shTL$b3f6c9bb192a65ac3a33183c77a61f569ffd77450a057322f7651a9010c1f117', 'mobile': '17601047227', 'email': None, 'last_login': datetime.datetime(2019, 5, 23, 21, 58, 41, 579142)}]
+(Background on this error at: http://sqlalche.me/e/9h9h)
+INFO _internal.py:122 127.0.0.1 - - [23/May/2019 21:58:41] "POST /users/register HTTP/1.1" 200 -
+INFO log.py:110 BEGIN (implicit)
+INFO log.py:110 INSERT INTO `Users` (timestamp, update_time, nick_name, password_hash, mobile, email, last_login) VALUES (%(timestamp)s, %(update_time)s, %(nick_name)s, %(password_hash)s, %(mobile)s, %(email)s, %(last_login)s)
+INFO log.py:110 {'timestamp': datetime.datetime(2019, 5, 23, 21, 37, 18, 151589), 'update_time': datetime.datetime(2019, 5, 23, 21, 37, 18, 151589), 'nick_name': '17601047227', 'password_hash': 'pbkdf2:sha256:150000$ydOfImZf$483a7f0f28bf3be4fad7d85f5c706737bbaba96a85c0d9a0b544d842ffe92445', 'mobile': '17601047227', 'email': None, 'last_login': datetime.datetime(2019, 5, 23, 21, 59, 0, 665406)}
+INFO log.py:110 ROLLBACK
+ERROR views.py:76 (pymysql.err.DataError) (1264, "Out of range value for column 'mobile' at row 1")
+[SQL: INSERT INTO `Users` (timestamp, update_time, nick_name, password_hash, mobile, email, last_login) VALUES (%(timestamp)s, %(update_time)s, %(nick_name)s, %(password_hash)s, %(mobile)s, %(email)s, %(last_login)s)]
+[parameters: {'timestamp': datetime.datetime(2019, 5, 23, 21, 37, 18, 151589), 'update_time': datetime.datetime(2019, 5, 23, 21, 37, 18, 151589), 'nick_name': '17601047227', 'password_hash': 'pbkdf2:sha256:150000$ydOfImZf$483a7f0f28bf3be4fad7d85f5c706737bbaba96a85c0d9a0b544d842ffe92445', 'mobile': '17601047227', 'email': None, 'last_login': datetime.datetime(2019, 5, 23, 21, 59, 0, 665406)}]
+(Background on this error at: http://sqlalche.me/e/9h9h)
+INFO _internal.py:122 127.0.0.1 - - [23/May/2019 21:59:00] "POST /users/register HTTP/1.1" 200 -
+INFO log.py:110 BEGIN (implicit)
+INFO log.py:110 INSERT INTO `Users` (timestamp, update_time, nick_name, password_hash, mobile, email, last_login) VALUES (%(timestamp)s, %(update_time)s, %(nick_name)s, %(password_hash)s, %(mobile)s, %(email)s, %(last_login)s)
+INFO log.py:110 {'timestamp': datetime.datetime(2019, 5, 23, 21, 37, 18, 151589), 'update_time': datetime.datetime(2019, 5, 23, 21, 37, 18, 151589), 'nick_name': '17601047227', 'password_hash': 'pbkdf2:sha256:150000$qx647fGf$944b85752282d2e9507347f044a8d35db14671c2ca2c83eec920c18c16a9e993', 'mobile': '17601047227', 'email': None, 'last_login': datetime.datetime(2019, 5, 23, 22, 0, 27, 913358)}
+INFO log.py:110 ROLLBACK
+ERROR views.py:76 (pymysql.err.DataError) (1264, "Out of range value for column 'mobile' at row 1")
+[SQL: INSERT INTO `Users` (timestamp, update_time, nick_name, password_hash, mobile, email, last_login) VALUES (%(timestamp)s, %(update_time)s, %(nick_name)s, %(password_hash)s, %(mobile)s, %(email)s, %(last_login)s)]
+[parameters: {'timestamp': datetime.datetime(2019, 5, 23, 21, 37, 18, 151589), 'update_time': datetime.datetime(2019, 5, 23, 21, 37, 18, 151589), 'nick_name': '17601047227', 'password_hash': 'pbkdf2:sha256:150000$qx647fGf$944b85752282d2e9507347f044a8d35db14671c2ca2c83eec920c18c16a9e993', 'mobile': '17601047227', 'email': None, 'last_login': datetime.datetime(2019, 5, 23, 22, 0, 27, 913358)}]
+(Background on this error at: http://sqlalche.me/e/9h9h)
+INFO _internal.py:122 127.0.0.1 - - [23/May/2019 22:00:28] "POST /users/register HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\models.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\models.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO log.py:110 SHOW VARIABLES LIKE 'sql_mode'
+INFO log.py:110 {}
+INFO log.py:110 SHOW VARIABLES LIKE 'lower_case_table_names'
+INFO log.py:110 {}
+INFO log.py:110 SELECT DATABASE()
+INFO log.py:110 {}
+INFO log.py:110 show collation where `Charset` = 'utf8mb4' and `Collation` = 'utf8mb4_bin'
+INFO log.py:110 {}
+INFO log.py:110 SELECT CAST('test plain returns' AS CHAR(60)) AS anon_1
+INFO log.py:110 {}
+INFO log.py:110 SELECT CAST('test unicode returns' AS CHAR(60)) AS anon_1
+INFO log.py:110 {}
+INFO log.py:110 SELECT CAST('test collated returns' AS CHAR CHARACTER SET utf8mb4) COLLATE utf8mb4_bin AS anon_1
+INFO log.py:110 {}
+INFO log.py:110 BEGIN (implicit)
+INFO log.py:110 INSERT INTO `Users` (timestamp, update_time, nick_name, password_hash, mobile, email, last_login) VALUES (%(timestamp)s, %(update_time)s, %(nick_name)s, %(password_hash)s, %(mobile)s, %(email)s, %(last_login)s)
+INFO log.py:110 {'timestamp': datetime.datetime(2019, 5, 23, 22, 16, 44, 149614), 'update_time': datetime.datetime(2019, 5, 23, 22, 16, 44, 150110), 'nick_name': '17601047227', 'password_hash': 'pbkdf2:sha256:150000$GvjUSIrA$7f89f1f423997f516974f30ef6a9abc0471e77f0a3fad4d3ba65a5d726a2f7e1', 'mobile': '17601047227', 'email': None, 'last_login': datetime.datetime(2019, 5, 23, 22, 20, 0, 646845)}
+INFO log.py:110 ROLLBACK
+ERROR views.py:76 (pymysql.err.DataError) (1264, "Out of range value for column 'mobile' at row 1")
+[SQL: INSERT INTO `Users` (timestamp, update_time, nick_name, password_hash, mobile, email, last_login) VALUES (%(timestamp)s, %(update_time)s, %(nick_name)s, %(password_hash)s, %(mobile)s, %(email)s, %(last_login)s)]
+[parameters: {'timestamp': datetime.datetime(2019, 5, 23, 22, 16, 44, 149614), 'update_time': datetime.datetime(2019, 5, 23, 22, 16, 44, 150110), 'nick_name': '17601047227', 'password_hash': 'pbkdf2:sha256:150000$GvjUSIrA$7f89f1f423997f516974f30ef6a9abc0471e77f0a3fad4d3ba65a5d726a2f7e1', 'mobile': '17601047227', 'email': None, 'last_login': datetime.datetime(2019, 5, 23, 22, 20, 0, 646845)}]
+(Background on this error at: http://sqlalche.me/e/9h9h)
+INFO _internal.py:122 127.0.0.1 - - [23/May/2019 22:20:00] "POST /users/register HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [23/May/2019 22:20:30] "POST /users/register HTTP/1.1" 500 -
+INFO log.py:110 BEGIN (implicit)
+INFO log.py:110 INSERT INTO `Users` (timestamp, update_time, nick_name, password_hash, mobile, email, last_login) VALUES (%(timestamp)s, %(update_time)s, %(nick_name)s, %(password_hash)s, %(mobile)s, %(email)s, %(last_login)s)
+INFO log.py:110 {'timestamp': datetime.datetime(2019, 5, 23, 22, 16, 44, 149614), 'update_time': datetime.datetime(2019, 5, 23, 22, 16, 44, 150110), 'nick_name': '17601047227', 'password_hash': 'pbkdf2:sha256:150000$WUjbYg8t$1b26f8a19f4a32b7535c1b6d057135e6583a3ed968b9ad4c53cdd2bb4e86b3fe', 'mobile': '17601047227', 'email': None, 'last_login': datetime.datetime(2019, 5, 23, 22, 22, 56, 942007)}
+INFO log.py:110 COMMIT
+INFO _internal.py:122 127.0.0.1 - - [23/May/2019 22:22:57] "POST /users/register HTTP/1.1" 500 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO log.py:110 SHOW VARIABLES LIKE 'sql_mode'
+INFO log.py:110 {}
+INFO log.py:110 SHOW VARIABLES LIKE 'lower_case_table_names'
+INFO log.py:110 {}
+INFO log.py:110 SELECT DATABASE()
+INFO log.py:110 {}
+INFO log.py:110 show collation where `Charset` = 'utf8mb4' and `Collation` = 'utf8mb4_bin'
+INFO log.py:110 {}
+INFO log.py:110 SELECT CAST('test plain returns' AS CHAR(60)) AS anon_1
+INFO log.py:110 {}
+INFO log.py:110 SELECT CAST('test unicode returns' AS CHAR(60)) AS anon_1
+INFO log.py:110 {}
+INFO log.py:110 SELECT CAST('test collated returns' AS CHAR CHARACTER SET utf8mb4) COLLATE utf8mb4_bin AS anon_1
+INFO log.py:110 {}
+INFO log.py:110 BEGIN (implicit)
+INFO log.py:110 INSERT INTO `Users` (timestamp, update_time, nick_name, password_hash, mobile, email, last_login) VALUES (%(timestamp)s, %(update_time)s, %(nick_name)s, %(password_hash)s, %(mobile)s, %(email)s, %(last_login)s)
+INFO log.py:110 {'timestamp': datetime.datetime(2019, 5, 23, 22, 23, 56, 942434), 'update_time': datetime.datetime(2019, 5, 23, 22, 23, 56, 942434), 'nick_name': '17601047227', 'password_hash': 'pbkdf2:sha256:150000$l8ULRomn$20c3a343322a41c6b48e59914ab8c6c52bd8ab0c4f5e8fda01452199357baf02', 'mobile': '17601047227', 'email': None, 'last_login': datetime.datetime(2019, 5, 23, 22, 23, 57, 339760)}
+INFO log.py:110 COMMIT
+INFO log.py:110 BEGIN (implicit)
+INFO log.py:110 SELECT `Users`.timestamp AS `Users_timestamp`, `Users`.update_time AS `Users_update_time`, `Users`.user_id AS `Users_user_id`, `Users`.nick_name AS `Users_nick_name`, `Users`.password_hash AS `Users_password_hash`, `Users`.mobile AS `Users_mobile`, `Users`.email AS `Users_email`, `Users`.last_login AS `Users_last_login` 
+FROM `Users` 
+WHERE `Users`.user_id = %(param_1)s
+INFO log.py:110 {'param_1': 2}
+INFO log.py:110 ROLLBACK
+INFO _internal.py:122 127.0.0.1 - - [23/May/2019 22:23:57] "POST /users/register HTTP/1.1" 200 -
+INFO log.py:110 BEGIN (implicit)
+INFO log.py:110 INSERT INTO `Users` (timestamp, update_time, nick_name, password_hash, mobile, email, last_login) VALUES (%(timestamp)s, %(update_time)s, %(nick_name)s, %(password_hash)s, %(mobile)s, %(email)s, %(last_login)s)
+INFO log.py:110 {'timestamp': datetime.datetime(2019, 5, 23, 22, 23, 56, 942434), 'update_time': datetime.datetime(2019, 5, 23, 22, 23, 56, 942434), 'nick_name': '17601047227', 'password_hash': 'pbkdf2:sha256:150000$O01DeLIG$c7a7106aef9763a3ca9d6268717d8f2db3933a39b0bf4a538f5b8230322546de', 'mobile': '17601047227', 'email': None, 'last_login': datetime.datetime(2019, 5, 23, 22, 24, 36, 584358)}
+INFO log.py:110 COMMIT
+INFO log.py:110 BEGIN (implicit)
+INFO log.py:110 SELECT `Users`.timestamp AS `Users_timestamp`, `Users`.update_time AS `Users_update_time`, `Users`.user_id AS `Users_user_id`, `Users`.nick_name AS `Users_nick_name`, `Users`.password_hash AS `Users_password_hash`, `Users`.mobile AS `Users_mobile`, `Users`.email AS `Users_email`, `Users`.last_login AS `Users_last_login` 
+FROM `Users` 
+WHERE `Users`.user_id = %(param_1)s
+INFO log.py:110 {'param_1': 3}
+INFO log.py:110 ROLLBACK
+INFO _internal.py:122 127.0.0.1 - - [23/May/2019 22:24:36] "POST /users/register HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO log.py:110 SHOW VARIABLES LIKE 'sql_mode'
+INFO log.py:110 {}
+INFO log.py:110 SHOW VARIABLES LIKE 'lower_case_table_names'
+INFO log.py:110 {}
+INFO log.py:110 SELECT DATABASE()
+INFO log.py:110 {}
+INFO log.py:110 show collation where `Charset` = 'utf8mb4' and `Collation` = 'utf8mb4_bin'
+INFO log.py:110 {}
+INFO log.py:110 SELECT CAST('test plain returns' AS CHAR(60)) AS anon_1
+INFO log.py:110 {}
+INFO log.py:110 SELECT CAST('test unicode returns' AS CHAR(60)) AS anon_1
+INFO log.py:110 {}
+INFO log.py:110 SELECT CAST('test collated returns' AS CHAR CHARACTER SET utf8mb4) COLLATE utf8mb4_bin AS anon_1
+INFO log.py:110 {}
+INFO log.py:110 BEGIN (implicit)
+INFO log.py:110 INSERT INTO `Users` (timestamp, update_time, nick_name, password_hash, mobile, email, last_login) VALUES (%(timestamp)s, %(update_time)s, %(nick_name)s, %(password_hash)s, %(mobile)s, %(email)s, %(last_login)s)
+INFO log.py:110 {'timestamp': datetime.datetime(2019, 5, 23, 22, 30, 49, 219766), 'update_time': datetime.datetime(2019, 5, 23, 22, 30, 49, 219766), 'nick_name': '17601047227', 'password_hash': 'pbkdf2:sha256:150000$NKN7KZpB$7fe9cf9aee73e4ead66a3d36a18b22cc7ca98c5a224ddb7241c79c21b51ecaf6', 'mobile': '17601047227', 'email': None, 'last_login': datetime.datetime(2019, 5, 23, 22, 30, 55, 71315)}
+INFO log.py:110 ROLLBACK
+ERROR views.py:76 (pymysql.err.IntegrityError) (1062, "Duplicate entry '17601047227' for key 'nick_name'")
+[SQL: INSERT INTO `Users` (timestamp, update_time, nick_name, password_hash, mobile, email, last_login) VALUES (%(timestamp)s, %(update_time)s, %(nick_name)s, %(password_hash)s, %(mobile)s, %(email)s, %(last_login)s)]
+[parameters: {'timestamp': datetime.datetime(2019, 5, 23, 22, 30, 49, 219766), 'update_time': datetime.datetime(2019, 5, 23, 22, 30, 49, 219766), 'nick_name': '17601047227', 'password_hash': 'pbkdf2:sha256:150000$NKN7KZpB$7fe9cf9aee73e4ead66a3d36a18b22cc7ca98c5a224ddb7241c79c21b51ecaf6', 'mobile': '17601047227', 'email': None, 'last_login': datetime.datetime(2019, 5, 23, 22, 30, 55, 71315)}]
+(Background on this error at: http://sqlalche.me/e/gkpj)
+INFO _internal.py:122 127.0.0.1 - - [23/May/2019 22:30:55] "POST /users/register HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO log.py:110 SHOW VARIABLES LIKE 'sql_mode'
+INFO log.py:110 {}
+INFO log.py:110 SHOW VARIABLES LIKE 'lower_case_table_names'
+INFO log.py:110 {}
+INFO log.py:110 SELECT DATABASE()
+INFO log.py:110 {}
+INFO log.py:110 show collation where `Charset` = 'utf8mb4' and `Collation` = 'utf8mb4_bin'
+INFO log.py:110 {}
+INFO log.py:110 SELECT CAST('test plain returns' AS CHAR(60)) AS anon_1
+INFO log.py:110 {}
+INFO log.py:110 SELECT CAST('test unicode returns' AS CHAR(60)) AS anon_1
+INFO log.py:110 {}
+INFO log.py:110 SELECT CAST('test collated returns' AS CHAR CHARACTER SET utf8mb4) COLLATE utf8mb4_bin AS anon_1
+INFO log.py:110 {}
+INFO log.py:110 BEGIN (implicit)
+INFO log.py:110 INSERT INTO `Users` (timestamp, update_time, nick_name, password_hash, mobile, email, last_login) VALUES (%(timestamp)s, %(update_time)s, %(nick_name)s, %(password_hash)s, %(mobile)s, %(email)s, %(last_login)s)
+INFO log.py:110 {'timestamp': datetime.datetime(2019, 5, 23, 22, 30, 58, 501115), 'update_time': datetime.datetime(2019, 5, 23, 22, 30, 58, 501115), 'nick_name': '17601047227', 'password_hash': 'pbkdf2:sha256:150000$hG8VJzB9$836645e775eb0f30285aa153f5c8b60808477484c20ec64bfddffa1aa3fe93c0', 'mobile': '17601047227', 'email': None, 'last_login': datetime.datetime(2019, 5, 23, 22, 31, 31, 255914)}
+INFO log.py:110 COMMIT
+INFO log.py:110 BEGIN (implicit)
+INFO log.py:110 SELECT `Users`.timestamp AS `Users_timestamp`, `Users`.update_time AS `Users_update_time`, `Users`.user_id AS `Users_user_id`, `Users`.nick_name AS `Users_nick_name`, `Users`.password_hash AS `Users_password_hash`, `Users`.mobile AS `Users_mobile`, `Users`.email AS `Users_email`, `Users`.last_login AS `Users_last_login` 
+FROM `Users` 
+WHERE `Users`.user_id = %(param_1)s
+INFO log.py:110 {'param_1': 5}
+INFO log.py:110 ROLLBACK
+INFO _internal.py:122 127.0.0.1 - - [23/May/2019 22:31:31] "POST /users/register HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\models.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [24/May/2019 14:13:46] "POST /users/smscode HTTP/1.1" 400 -
+INFO _internal.py:122 127.0.0.1 - - [24/May/2019 14:15:20] "POST /users/smscode HTTP/1.1" 400 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [24/May/2019 14:15:28] "POST /users/smscode HTTP/1.1" 400 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [24/May/2019 14:15:45] "POST /users/smscode HTTP/1.1" 400 -
+INFO _internal.py:122 127.0.0.1 - - [24/May/2019 14:15:58] "POST /users/smscode HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [24/May/2019 14:16:45] "POST /users/smscode HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [24/May/2019 14:17:55] "POST /users/smscode HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [24/May/2019 14:43:04] "POST /users/smscode HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [24/May/2019 14:45:56] "POST /users/smscode HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [24/May/2019 14:46:35] "POST /users/smscode HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [24/May/2019 14:47:00] "POST /users/smscode HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [24/May/2019 14:47:23] "POST /users/smscode HTTP/1.1" 500 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [24/May/2019 14:47:51] "POST /users/smscode HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [24/May/2019 14:48:24] "POST /users/smscode HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [24/May/2019 14:48:59] "POST /users/smscode HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [24/May/2019 14:49:21] "POST /users/smscode HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [24/May/2019 15:08:16] "POST /users/smscode HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [24/May/2019 15:08:34] "POST /users/smscode HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [24/May/2019 15:09:12] "POST /users/smscode HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO log.py:110 SHOW VARIABLES LIKE 'sql_mode'
+INFO log.py:110 {}
+INFO log.py:110 SHOW VARIABLES LIKE 'lower_case_table_names'
+INFO log.py:110 {}
+INFO log.py:110 SELECT DATABASE()
+INFO log.py:110 {}
+INFO log.py:110 show collation where `Charset` = 'utf8mb4' and `Collation` = 'utf8mb4_bin'
+INFO log.py:110 {}
+INFO log.py:110 SELECT CAST('test plain returns' AS CHAR(60)) AS anon_1
+INFO log.py:110 {}
+INFO log.py:110 SELECT CAST('test unicode returns' AS CHAR(60)) AS anon_1
+INFO log.py:110 {}
+INFO log.py:110 SELECT CAST('test collated returns' AS CHAR CHARACTER SET utf8mb4) COLLATE utf8mb4_bin AS anon_1
+INFO log.py:110 {}
+INFO log.py:110 BEGIN (implicit)
+INFO log.py:110 SELECT `Users`.timestamp AS `Users_timestamp`, `Users`.update_time AS `Users_update_time`, `Users`.user_id AS `Users_user_id`, `Users`.nick_name AS `Users_nick_name`, `Users`.password_hash AS `Users_password_hash`, `Users`.mobile AS `Users_mobile`, `Users`.email AS `Users_email`, `Users`.last_login AS `Users_last_login` 
+FROM `Users` 
+WHERE `Users`.mobile = %(mobile_1)s
+INFO log.py:110 {'mobile_1': '17601047227'}
+INFO log.py:110 ROLLBACK
+INFO _internal.py:122 127.0.0.1 - - [24/May/2019 15:10:46] "POST /users/smscode HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [24/May/2019 15:11:37] "POST /users/smscode HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [24/May/2019 15:12:44] "POST /users/smscode HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [24/May/2019 15:14:08] "POST /users/register HTTP/1.1" 400 -
+INFO _internal.py:122 127.0.0.1 - - [24/May/2019 15:14:18] "POST /users/register HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [24/May/2019 15:14:56] "POST /users/register HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\constants.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [24/May/2019 15:16:02] "POST /users/smscode HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [24/May/2019 15:16:27] "POST /users/register HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [24/May/2019 15:16:58] "POST /users/register HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [24/May/2019 15:17:50] "POST /users/register HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [24/May/2019 15:18:45] "POST /users/register HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [24/May/2019 15:19:36] "POST /users/register HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO log.py:110 SHOW VARIABLES LIKE 'sql_mode'
+INFO log.py:110 {}
+INFO log.py:110 SHOW VARIABLES LIKE 'lower_case_table_names'
+INFO log.py:110 {}
+INFO log.py:110 SELECT DATABASE()
+INFO log.py:110 {}
+INFO log.py:110 show collation where `Charset` = 'utf8mb4' and `Collation` = 'utf8mb4_bin'
+INFO log.py:110 {}
+INFO log.py:110 SELECT CAST('test plain returns' AS CHAR(60)) AS anon_1
+INFO log.py:110 {}
+INFO log.py:110 SELECT CAST('test unicode returns' AS CHAR(60)) AS anon_1
+INFO log.py:110 {}
+INFO log.py:110 SELECT CAST('test collated returns' AS CHAR CHARACTER SET utf8mb4) COLLATE utf8mb4_bin AS anon_1
+INFO log.py:110 {}
+INFO log.py:110 BEGIN (implicit)
+INFO log.py:110 INSERT INTO `Users` (timestamp, update_time, nick_name, password_hash, mobile, email, last_login) VALUES (%(timestamp)s, %(update_time)s, %(nick_name)s, %(password_hash)s, %(mobile)s, %(email)s, %(last_login)s)
+INFO log.py:110 {'timestamp': datetime.datetime(2019, 5, 24, 15, 19, 51, 378653), 'update_time': datetime.datetime(2019, 5, 24, 15, 19, 51, 378653), 'nick_name': '17601047227', 'password_hash': 'pbkdf2:sha256:150000$f6PVh4iD$1541c363026105ee38742c05e79fc15cdd2c5ba318e82ee44dc437e207b532a7', 'mobile': '17601047227', 'email': None, 'last_login': datetime.datetime(2019, 5, 24, 15, 19, 53, 994169)}
+INFO log.py:110 COMMIT
+INFO log.py:110 BEGIN (implicit)
+INFO log.py:110 SELECT `Users`.timestamp AS `Users_timestamp`, `Users`.update_time AS `Users_update_time`, `Users`.user_id AS `Users_user_id`, `Users`.nick_name AS `Users_nick_name`, `Users`.password_hash AS `Users_password_hash`, `Users`.mobile AS `Users_mobile`, `Users`.email AS `Users_email`, `Users`.last_login AS `Users_last_login` 
+FROM `Users` 
+WHERE `Users`.user_id = %(param_1)s
+INFO log.py:110 {'param_1': 6}
+INFO log.py:110 ROLLBACK
+INFO _internal.py:122 127.0.0.1 - - [24/May/2019 15:19:54] "POST /users/register HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO log.py:110 SHOW VARIABLES LIKE 'sql_mode'
+INFO log.py:110 {}
+INFO log.py:110 SHOW VARIABLES LIKE 'lower_case_table_names'
+INFO log.py:110 {}
+INFO log.py:110 SELECT DATABASE()
+INFO log.py:110 {}
+INFO log.py:110 show collation where `Charset` = 'utf8mb4' and `Collation` = 'utf8mb4_bin'
+INFO log.py:110 {}
+INFO log.py:110 SELECT CAST('test plain returns' AS CHAR(60)) AS anon_1
+INFO log.py:110 {}
+INFO log.py:110 SELECT CAST('test unicode returns' AS CHAR(60)) AS anon_1
+INFO log.py:110 {}
+INFO log.py:110 SELECT CAST('test collated returns' AS CHAR CHARACTER SET utf8mb4) COLLATE utf8mb4_bin AS anon_1
+INFO log.py:110 {}
+INFO log.py:110 BEGIN (implicit)
+INFO log.py:110 INSERT INTO `Users` (timestamp, update_time, nick_name, password_hash, mobile, email, last_login) VALUES (%(timestamp)s, %(update_time)s, %(nick_name)s, %(password_hash)s, %(mobile)s, %(email)s, %(last_login)s)
+INFO log.py:110 {'timestamp': datetime.datetime(2019, 5, 24, 15, 20, 24, 386305), 'update_time': datetime.datetime(2019, 5, 24, 15, 20, 24, 386305), 'nick_name': '17601047227', 'password_hash': 'pbkdf2:sha256:150000$CLInZYWr$737426d1004d3c1e3fb2f1b39c6f6a868e6f3572b4bdbb763c63ba0bbdf01490', 'mobile': '17601047227', 'email': None, 'last_login': datetime.datetime(2019, 5, 24, 15, 20, 36, 910889)}
+INFO log.py:110 ROLLBACK
+ERROR views.py:118 (pymysql.err.IntegrityError) (1062, "Duplicate entry '17601047227' for key 'nick_name'")
+[SQL: INSERT INTO `Users` (timestamp, update_time, nick_name, password_hash, mobile, email, last_login) VALUES (%(timestamp)s, %(update_time)s, %(nick_name)s, %(password_hash)s, %(mobile)s, %(email)s, %(last_login)s)]
+[parameters: {'timestamp': datetime.datetime(2019, 5, 24, 15, 20, 24, 386305), 'update_time': datetime.datetime(2019, 5, 24, 15, 20, 24, 386305), 'nick_name': '17601047227', 'password_hash': 'pbkdf2:sha256:150000$CLInZYWr$737426d1004d3c1e3fb2f1b39c6f6a868e6f3572b4bdbb763c63ba0bbdf01490', 'mobile': '17601047227', 'email': None, 'last_login': datetime.datetime(2019, 5, 24, 15, 20, 36, 910889)}]
+(Background on this error at: http://sqlalche.me/e/gkpj)
+INFO _internal.py:122 127.0.0.1 - - [24/May/2019 15:20:37] "POST /users/register HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR views.py:59 get() missing 1 required positional argument: 'ident'
+INFO _internal.py:122 127.0.0.1 - - [24/May/2019 16:53:19] "POST /users/login HTTP/1.1" 200 -
+ERROR views.py:59 get() missing 1 required positional argument: 'ident'
+INFO _internal.py:122 127.0.0.1 - - [24/May/2019 16:53:58] "POST /users/login HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR views.py:60 get() missing 1 required positional argument: 'ident'
+INFO _internal.py:122 127.0.0.1 - - [24/May/2019 16:54:25] "POST /users/login HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\Suenecan\\Desktop\\colcter\\info\\modules\\user\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 745-503-176
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO log.py:110 SHOW VARIABLES LIKE 'sql_mode'
+INFO log.py:110 {}
+INFO log.py:110 SHOW VARIABLES LIKE 'lower_case_table_names'
+INFO log.py:110 {}
+INFO log.py:110 SELECT DATABASE()
+INFO log.py:110 {}
+INFO log.py:110 show collation where `Charset` = 'utf8mb4' and `Collation` = 'utf8mb4_bin'
+INFO log.py:110 {}
+INFO log.py:110 SELECT CAST('test plain returns' AS CHAR(60)) AS anon_1
+INFO log.py:110 {}
+INFO log.py:110 SELECT CAST('test unicode returns' AS CHAR(60)) AS anon_1
+INFO log.py:110 {}
+INFO log.py:110 SELECT CAST('test collated returns' AS CHAR CHARACTER SET utf8mb4) COLLATE utf8mb4_bin AS anon_1
+INFO log.py:110 {}
+INFO log.py:110 BEGIN (implicit)
+INFO log.py:110 SELECT `Users`.timestamp AS `Users_timestamp`, `Users`.update_time AS `Users_update_time`, `Users`.user_id AS `Users_user_id`, `Users`.nick_name AS `Users_nick_name`, `Users`.password_hash AS `Users_password_hash`, `Users`.mobile AS `Users_mobile`, `Users`.email AS `Users_email`, `Users`.last_login AS `Users_last_login` 
+FROM `Users` 
+WHERE `Users`.mobile = %(mobile_1)s 
+ LIMIT %(param_1)s
+INFO log.py:110 {'mobile_1': '17601047227', 'param_1': 1}
+INFO log.py:110 UPDATE `Users` SET update_time=%(update_time)s, last_login=%(last_login)s WHERE `Users`.user_id = %(Users_user_id)s
+INFO log.py:110 {'update_time': datetime.datetime(2019, 5, 24, 16, 55, 10, 786159), 'last_login': datetime.datetime(2019, 5, 24, 16, 55, 13, 149826), 'Users_user_id': 6}
+INFO log.py:110 COMMIT
+INFO _internal.py:122 127.0.0.1 - - [24/May/2019 16:55:13] "POST /users/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [24/May/2019 16:55:55] "GET /users/logout HTTP/1.1" 200 -

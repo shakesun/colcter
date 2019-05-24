@@ -9,12 +9,13 @@ from flask_sqlalchemy import SQLAlchemy
 from flask_wtf import CSRFProtect
 
 from config import config
-from info.modules.index.views import RegexConverter
 
 db = SQLAlchemy()
 redis_store = None
 
 print("调用info.__init__")
+
+from info import models
 
 
 def create_app(config_name):
@@ -30,9 +31,9 @@ def create_app(config_name):
     db.init_app(app)
     global redis_store
     redis_store = redis.StrictRedis(host=config[config_name].REDIS_HOST, port=config[config_name].REDIS_POST)
-    CSRFProtect(app)
+    # CSRFProtect(app)
     Session(app)
-    from info.modules.index import index_blu
+    from info.modules.user import index_blu
     app.register_blueprint(index_blu)
 
     return app

@@ -14,13 +14,13 @@ class Config(object):
     DEBUG = True
 
     # mysql配置信息
-    SQLALCHEMY_DATABASE_URI = 'mysql+pymysql://root:mysql@192.168.171.203:3306/test'
+    SQLALCHEMY_DATABASE_URI = 'mysql+pymysql://root:mysql@192.168.171.207:3306/test'
     SQLALCHEMY_TRACK_MODIFICATIONS = False
     SQLALCHEMY_ECHO = True
 
     # redis配置信息
-    REDIS_HOST = '192.168.171.203'
-    REDIS_POST = 6379
+    REDIS_HOST = '192.168.171.207'
+    REDIS_POST = 6378
     #
     # flask_Session配置信息
     SESSION_TYPE = "redis"
