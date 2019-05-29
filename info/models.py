@@ -74,9 +74,22 @@ class Profession(BaseModel, db.Model):
 
     prof_id = db.Column(db.Integer, primary_key=True)
     prof_name = db.Column(db.String(64), unique=True, nullable=False)
-    major_or_not = db.Column(db.Boolean, default=True, nullable=False)
+    major_or_not = db.Column(db.Boolean, default=False, nullable=False)
     target = db.relationship("Target", backref="Profession", lazy="dynamic")
     user_id = db.Column(db.BigInteger, db.ForeignKey("Users.user_id"))
+
+    def to_dict(self):
+        """
+        构建字典类型返回数据
+        :return: 
+        """
+        prof_dict = {
+            "prof_id": self.prof_id,
+            "prof_name": self.prof_name,
+            "major_or_not": self.major_or_not,
+            "user_id": self.user_id
+        }
+        return prof_dict
 
     def __repr__(self):
         return "professions:%s" % self.prof_name
